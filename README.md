@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pokémon Showdown
 ========================================================================
 
@@ -97,3 +98,6 @@ Staff
 Contributors
 
 - See http://pokemonshowdown.com/credits
+=======
+# pk-showdowns
+>>>>>>> 81a6969a142614df28cd8eb8c4bb7228e2342782
