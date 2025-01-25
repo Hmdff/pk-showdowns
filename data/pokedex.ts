@@ -1596,13 +1596,13 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		evos: ["Machamp"],
 		eggGroups: ["Human-Like"],
 	},
-	machamp: {
+	machampu: {
 		num: 68,
-		name: "Machamp",
-		types: ["Fighting"],
+		name: "Machamp-u",
+		types: ["Fighting", "Steel"],
 		genderRatio: {M: 0.75, F: 0.25},
-		baseStats: {hp: 90, atk: 130, def: 80, spa: 65, spd: 85, spe: 55},
-		abilities: {0: "Guts", 1: "No Guard", H: "Steadfast"},
+		baseStats: {hp: 90, atk: 120, def: 90, spa: 45, spd: 85, spe: 95},
+		abilities: {0: "Speed Boost", H: "Sharpness"},
 		heightm: 1.6,
 		weightkg: 130,
 		color: "Gray",
